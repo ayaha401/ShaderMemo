@@ -2,7 +2,7 @@
 シェーダー書く時のメモ。
 
 # Shader全般
-* [全般]
+* [全般](https://github.com/ayaha401/ShaderMemo/wiki/%E5%85%A8%E8%88%AC)
 
 # UnityShader
 * [BRP(surfaceShader)](https://github.com/ayaha401/ShaderMemo/wiki/BRP%28surfaceShader%29)
