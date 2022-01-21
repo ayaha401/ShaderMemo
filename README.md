@@ -1,6 +1,9 @@
 # ShaderMemo
 シェーダー書く時のメモ。
 
+# Shader全般
+* [全般]
+
 # UnityShader
 * [BRP(surfaceShader)](https://github.com/ayaha401/ShaderMemo/wiki/BRP%28surfaceShader%29)
 * [BRP](https://github.com/ayaha401/ShaderMemo/wiki/BRP)
