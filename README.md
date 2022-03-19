@@ -2,7 +2,7 @@
 シェーダー書く時のメモ。
 
 # Shader用語
-* [用語](https://github.com/ayaha401/ShaderMemo/wiki/%E5%85%A8%E8%88%AC)
+* [用語](https://github.com/ayaha401/ShaderMemo/wiki/%E7%94%A8%E8%AA%9E)
 
 # UnityShader
 * [BRP(surfaceShader)](https://github.com/ayaha401/ShaderMemo/wiki/BRP%28surfaceShader%29)
