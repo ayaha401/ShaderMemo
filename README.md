@@ -18,4 +18,4 @@
 * [クリエイティブコーディング](https://github.com/ayaha401/ShaderMemo/wiki/%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0)
 
 # 個人Project命名ルール
-* 命名ルール
+* [命名ルール](https://github.com/ayaha401/ShaderMemo/wiki/%E5%91%BD%E5%90%8D%E3%83%AB%E3%83%BC%E3%83%AB)
